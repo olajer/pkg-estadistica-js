@@ -1,5 +1,5 @@
 {
-  "name": "@icebeam7/paquete-estadistica",
+  "name": "@olajer/pkg-estadistica",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,18 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebeam7/paquete-estadistica-js.git"
+    "url": "https://github.com/olajer/estadistica-js.git"
   },
   "keywords": [],
-  "author": "Luis Beltrán",
+  "author": "Raul Olaje",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/icebeam7/paquete-estadistica-js/issues"
+    "url": "https://github.com/olajer/estadistica-js/issues"
   },
-  "homepage": "https://github.com/icebeam7/paquete-estadistica-js#readme",
+  "homepage": "https://github.com/olajer/estadistica-js#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",

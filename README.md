@@ -32,6 +32,9 @@ generarGrafico('./public/grafica.png', etiquetas, datos).then(() => {
 });
 ```
 
+## Demo
+[TEST PROJECT](https://github.com/olajer/demo-pkg)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

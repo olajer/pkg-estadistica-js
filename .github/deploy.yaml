@@ -1,9 +1,0 @@
-name: Deploy to server
-
-on:
-   push:
-        branches: ["main"]
-
-jobs:
-     first_job:
-        runs-on: ubuntu-latest
